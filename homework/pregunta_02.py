@@ -6,10 +6,15 @@ Escriba el codigo que ejecute la accion solicitada en cada pregunta.
 
 
 def pregunta_02():
+    """
+    Retorne el string "Hola mundo cruel!".
 
-    print("Hello cruel world!")
+    Rta/
+    Hola mundo cruel!
+    """
+    print("Hola mundo cruel!")
 
-
+    
     return
 
 
